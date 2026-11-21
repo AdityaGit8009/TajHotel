@@ -398,3 +398,13 @@ swiper-container {
     height: 50px;
     margin-top: -80px;
 }
+.hotel-photo-placeholder {
+    display: grid;
+    min-height: 7rem;
+    place-items: center;
+    padding: 1rem;
+    width: 100%;
+    background: #ede8dd;
+    color: #514a3b;
+    text-align: center;
+}
