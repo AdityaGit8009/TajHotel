@@ -408,3 +408,13 @@ swiper-container {
     color: #514a3b;
     text-align: center;
 }
+
+.hotel-hero-brand {
+    display: grid;
+    min-height: clamp(22rem, 65vh, 46rem);
+    place-items: center;
+    background: linear-gradient(135deg, #23251f, #584629);
+}
+.hotel-hero-brand img {
+    width: clamp(6rem, 14vw, 12rem);
+}
